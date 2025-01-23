@@ -18,17 +18,17 @@ This project provides an API to predict manufacturing defects based on productio
 ### **1. Clone the Repository**
 
 bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/dhruva-sood/machine_defect.git
 cd your-repo-name
 
-### **2. Install Dependencies
+### 2. Install Dependencies
 Ensure you have Python (>=3.8) installed. Then, install the required packages using:
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
-### **3. Run the API Locally
+### 3. Run the API Locally
 Start the FastAPI application by running the following command:
 
 bash
