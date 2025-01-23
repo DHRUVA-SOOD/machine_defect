@@ -22,7 +22,7 @@ git clone https://github.com/dhruva-sood/machine_defect.git
 cd your-repo-name
 
 ### 2. Install Dependencies
-Ensure you have Python (>=3.8) installed. Then, install the required packages using:
+Install the required packages using:
 
 bash
 Copy
